@@ -137,37 +137,7 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-       - https://preview.cloud.189.cn/image/imageAction?param=5B8175F155A7FE00BF1749C495C23379F4CCA80775ED44CF8A4490B9CA88EF423CF6ECF0F7783AD44E5410F5CDE102E70B43EB49EB0D5F950F61AC855BF44B19AC088F0E63EB4313110FCE89AA4F3C1C864421794893039CD1B897B4F2A110ED44AC49DB655CF2BB961CEFF6665B5483
-       - https://pic.imgdb.cn/item/64e57f24661c6c8e54fc37cc.jpg
-       - https://pic.imgdb.cn/item/64e57d91661c6c8e54fb703c.png
-       - https://pic.imgdb.cn/item/64e57ee6661c6c8e54fc1d76.jpg
-       - https://pic.imgdb.cn/item/64e57ee5661c6c8e54fc1d66.jpg
-       - https://pic.imgdb.cn/item/64e57ee5661c6c8e54fc1d52.png
-       - https://pic.imgdb.cn/item/64e57ecd661c6c8e54fc1479.jpg
-       - https://pic.imgdb.cn/item/64e57c71661c6c8e54faf376.jpg
-       - https://pic.imgdb.cn/item/64e57c6e661c6c8e54faf1ab.jpg
-       - https://pic.imgdb.cn/item/64e47f70661c6c8e54c0c932.jpg
-       - https://pic.imgdb.cn/item/64e47f70661c6c8e54c0c923.jpg
-       - https://pic.imgdb.cn/item/64e47f70661c6c8e54c0c914.png
-       - https://pic.imgdb.cn/item/64e47f62661c6c8e54c0c295.jpg
-       - https://pic.imgdb.cn/item/64e47f62661c6c8e54c0c271.png
-       - https://pic.imgdb.cn/item/64e47f60661c6c8e54c0c231.jpg
-       - https://pic.imgdb.cn/item/64e47f60661c6c8e54c0c210.jpg
-       - https://pic.imgdb.cn/item/64e47f60661c6c8e54c0c1f0.jpg
-       - https://pic.imgdb.cn/item/64e47f4f661c6c8e54c0bdb9.jpg
-       - https://pic.imgdb.cn/item/64e47f4a661c6c8e54c0bc9e.jpg
-       - https://pic.imgdb.cn/item/64e47f48661c6c8e54c0bc41.jpg
-       - https://pic.imgdb.cn/item/64e47f3a661c6c8e54c0b8f5.jpg
-       - https://pic.imgdb.cn/item/64e47f2f661c6c8e54c0b3d8.jpg
-       - https://pic.imgdb.cn/item/64e47f00661c6c8e54c0a955.webp
-       - https://pic.imgdb.cn/item/64e4793e661c6c8e54be6603.jpg
-       - https://pic.imgdb.cn/item/64e47436661c6c8e54bc9365.jpg
-       - https://pic.imgdb.cn/item/64e472d3661c6c8e54bbe18b.jpg
-       - https://pic.imgdb.cn/item/64e964e7661c6c8e54286778.png
-       - https://pic.imgdb.cn/item/64e95eb1661c6c8e54266122.png
-       - https://pic.imgdb.cn/item/64e96196661c6c8e542787b9.jpg
-       - https://pic.imgdb.cn/item/64e96197661c6c8e542787d1.jpg
-       - https://pic.imgdb.cn/item/64e96197661c6c8e54278800.jpg
+       -  // 你自己的链接
   
 # A simple 404 page
 error_404:
@@ -234,7 +204,7 @@ reward:
   enable: true
   coinAudio: https://npm.elemecdn.com/akilar-candyassets@1.0.36/audio/aowu.m4a
   QR_code:
-    - img: https://pic.imgdb.cn/item/64e8560c661c6c8e54f118b4.png
+    - img: // 你自己的链接
       link:
       text: 微信
 
