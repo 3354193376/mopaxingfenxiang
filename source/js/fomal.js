@@ -3169,10 +3169,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://pic.imgdb.cn/item/64e9614e661c6c8e542766c5.jpg);
-    --darkmode-bg: url(https://pic.imgdb.cn/item/64e96196661c6c8e5427878a.png;
-    --mobileday-bg: url(https://pic.imgdb.cn/item/64e963ef661c6c8e542811b8.jpg);
-    --mobilenight-bg: url(https://pic.imgdb.cn/item/64e963ef661c6c8e542811aa.jpg);
+    --default-bg: url();
+    --darkmode-bg: url();
+    --mobileday-bg: url();
+    --mobilenight-bg: url();
   }`;
 }
 // 切换背景主函数
