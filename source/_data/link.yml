@@ -1,0 +1,21 @@
+- class_name: 0.推荐网站🍔
+  class_desc: 这里是最熟悉的小伙伴或者赞助商，当然是最前排啦
+  link_list: 
+    - name: Mopaxing
+      link: https://www.mopaxing.xyz/
+      avatar: https://pic.imgdb.cn/item/64e472d3661c6c8e54bbe18b.jpg
+      descr: 我的主站
+      siteshot: https://pic.imgdb.cn/item/64e709f4661c6c8e54a3475e.png
+
+    - name: mopaxing
+      link: https://abc.mopaxing.xyz/
+      avatar: https://pic.imgdb.cn/item/64e472d3661c6c8e54bbe18b.jpg
+      descr: 我的备用服务器在国内
+      siteshot: https://pic.imgdb.cn/item/64e47f4f661c6c8e54c0bdb9.jpg
+    
+    - name: mopaxing （国外地址国内无法访问）
+      link: https://mpx.mopaxing.xyz
+      avatar: https://pic.imgdb.cn/item/64e472d3661c6c8e54bbe18b.jpg
+      descr: 国外访问国内无法访问
+      siteshot: https://pic.imgdb.cn/item/64e47f4f661c6c8e54c0bdb9.jpg
+    
