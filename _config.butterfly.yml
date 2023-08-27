@@ -137,8 +137,8 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-       -  
-  
+       - https://preview.cloud.189.cn/image/imageAction?param=5B8175F155A7FE00BF1749C495C23379F4CCA80775ED44CF8A4490B9CA88EF423CF6ECF0F7783AD44E5410F5CDE102E70B43EB49EB0D5F950F61AC855BF44B19AC088F0E63EB4313110FCE89AA4F3C1C864421794893039CD1B897B4F2A110ED44AC49DB655CF2BB961CEFF6665B5483
+   
 # A simple 404 page
 error_404:
   enable: true
@@ -204,7 +204,7 @@ reward:
   enable: true
   coinAudio: https://npm.elemecdn.com/akilar-candyassets@1.0.36/audio/aowu.m4a
   QR_code:
-    - img: https:
+    - img: https://pic.imgdb.cn/item/64e8560c661c6c8e54f118b4.png
       link:
       text: 微信
 
