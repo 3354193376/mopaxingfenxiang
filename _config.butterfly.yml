@@ -137,7 +137,7 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-       -  // 你自己的链接
+       -  
   
 # A simple 404 page
 error_404:
@@ -204,7 +204,7 @@ reward:
   enable: true
   coinAudio: https://npm.elemecdn.com/akilar-candyassets@1.0.36/audio/aowu.m4a
   QR_code:
-    - img: // 你自己的链接
+    - img: https:
       link:
       text: 微信
 
